@@ -9,3 +9,12 @@
 
 # pie chart on maps
 # https://www.gl-li.com/2018/01/17/create-pie-plots-on-a-map-in-r/
+
+# Stackoverflow en général
+# topics spécifiques
+
+# download a file en R
+# https://stackoverflow.com/questions/26765452/permission-denied-error-when-downloading-a-file
+# extract a zipfile dans R
+# https://stackoverflow.com/questions/3053833/using-r-to-download-zipped-data-file-extract-and-import-data
+

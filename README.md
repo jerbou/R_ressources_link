@@ -18,3 +18,5 @@
 # extract a zipfile dans R
 # https://stackoverflow.com/questions/3053833/using-r-to-download-zipped-data-file-extract-and-import-data
 
+# pour customiser la package directory
+# assign(".lib.loc", "C:/R/R-3.4.4/library", envir = environment(.libPaths))
